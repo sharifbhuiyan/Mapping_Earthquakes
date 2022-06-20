@@ -7,6 +7,22 @@ body,
   margin: 0;
 }
 
+.legend {
+  padding: 10px;
+  line-height: 18px;
+  color: #555;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.legend i {
+  float: left;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
 /* Purpose of #mapid : it refers the 'id' tag on the index.html page */
 /* width : it sets the width of 'div' element to 100% of the page. */
 /* heith : it sets the heith of 'div' element to 100% of the page. */
